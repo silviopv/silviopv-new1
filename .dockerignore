@@ -1,0 +1,13 @@
+
+# Ignore Docker-related files
+Dockerfile
+.dockerignore
+
+# Ignore git repository files
+.git
+.gitignore
+
+# Ignore editor and OS-specific files
+.vscode
+.idea
+*.DS_Store

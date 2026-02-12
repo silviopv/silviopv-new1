@@ -1,0 +1,5 @@
+{
+  "name": "AI Mockup Generator",
+  "description": "An advanced web application to generate high-quality mockups by applying a user-uploaded image to various contexts like stationery, apparel, and devices. Users can customize the style with an optional text prompt.",
+  "requestFramePermissions": []
+}
